@@ -9,6 +9,10 @@ Sizhen Bian, Mengxi Liu, Lala Shakti Swarup Ray, Bo Zhou, Bin Guo, Zhiwen Yu, Th
 *Proc. ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT / UbiComp)*, Vol. 10, No. 2, Article 31, June 2026
 DOI: [10.1145/3810230](https://doi.org/10.1145/3810230) · License: CC BY 4.0
 
+## Medium Article and Youtube Link
+Medium Article: https://medium.com/@m.chau2021/your-smartwatch-is-about-to-get-a-gpt-moment-foundation-models-for-activity-recognition-a2fc8c182229?sharedUserId=m.chau2021
+Youtube Link: 
+
 ## Why it fits CMPE 255
 
 - **Self-supervised representation learning** on large unlabeled datasets (contrastive and masked objectives)
